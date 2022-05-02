@@ -15,6 +15,7 @@
 
 - AWS is responsible for security OF the cloud such as physical security of their DCs, Edge locations, regions, all hardware of the utilized by the AWS cloud, and the software that functions the stack such as hypervisors.
 - You are responsible for security IN the cloud. You are responsible for the security of the data you store in the cloud, the software (applications, and OSes) you run on top of the cloud etc.
+- Encryption is a shared responsibility.
 
 ## AWS Well-Architected Framework 
 
