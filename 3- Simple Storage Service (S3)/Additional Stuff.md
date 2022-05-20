@@ -13,5 +13,4 @@
 - presents a file interface
 - you can store files as objects in S3 using standard NFS and SMB file protocols
 - you can access these files via the same protocols from your DC or EC2 instances as files.
-- can access the files as objects from the AWS CLI
-- 
+- can access the files as objects from the AWS CLI and S3 Management Console
