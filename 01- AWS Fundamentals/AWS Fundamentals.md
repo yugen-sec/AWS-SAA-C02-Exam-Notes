@@ -3,6 +3,7 @@
 ## AWS Global Infrastructure
 
 **Region**: a region is simply a geographical location like London, Mumbai, North Virginia etc.
+
 **Availability Zone**: an availability zone is one or more data centers situated closely (within 100 km) to each other in a single region.
 
 - Each region has at least 2 availability zones.
